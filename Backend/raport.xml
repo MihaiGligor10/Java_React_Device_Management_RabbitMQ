@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cgListDTO>
+    <client>
+        <username>admin@gmail.com</username>
+        <gen_preferat>Comedy</gen_preferat>
+    </client>
+    <client>
+        <username>mihai@yahoo.com</username>
+    </client>
+</cgListDTO>

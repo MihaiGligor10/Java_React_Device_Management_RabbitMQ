@@ -1,0 +1,103 @@
+.loginbody {
+  background-image: url("../src/CSS/images/login.jpg");
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.loginbody h2 {
+  margin: 0;
+  background-color: #23463f;
+  text-align: center;
+  color: #277582;
+  padding: 30px;
+  text-shadow: 10px 10px 20px #000000;
+  border-radius: 30px;
+}
+
+.loginbody .login {
+  /* width: 382px;*/
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 80px;
+  background: #23463f;
+  border-radius: 30px;
+  display: inline-block;
+  text-align: center;
+}
+
+.loginbody label {
+  color: #08ffd1;
+  font-size: 17px;
+  text-align: left;
+}
+
+.loginbody #Uname {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+.loginbody #Pass {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+.loginbody #log {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 17px;
+  padding-left: 7px;
+  color: blue;
+}
+
+.loginbody #Unamer {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+.loginbody #Passr {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+.loginbody #Passr2 {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+.loginbody #reg {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 17px;
+  padding-left: 7px;
+  color: blue;
+}
+
+.loginbody span {
+  color: white;
+  font-size: 17px;
+}
+
+.loginbody a {
+  float: right;
+  background-color: grey;
+}
+/*# sourceMappingURL=Login.module.css.map */

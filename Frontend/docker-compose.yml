@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+
+  react:
+    build: .
+    image: frontend
+    ports:
+       - "80:80"
+       
+       
+
+

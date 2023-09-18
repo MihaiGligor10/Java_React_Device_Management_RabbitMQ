@@ -1,0 +1,10 @@
+Nume: Ex Machina
+Gen: SF
+Descriere: Ex Machina is a 2014 science fiction film written and directed by Alex Garland in his directorial debut. Domhnall Gleeson, Alicia Vikander, Sonoya Mizuno, and Oscar Isaac star in a story that follows a programmer who is invited by his CEO to administer the Turing test to an intelligent humanoid robot.
+
+
+Nume: The Book Thief
+Gen: Drama
+Descriere: The film is about a young girl living with her adoptive German family during the Nazi era. Taught to read by her kind-hearted foster father, the girl begins "borrowing" books and sharing them with the Jewish refugee being sheltered by her foster parents in their home.
+
+

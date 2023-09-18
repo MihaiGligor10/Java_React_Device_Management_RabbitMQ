@@ -1,0 +1,107 @@
+.left {
+    left: 0;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    top: 0;
+  
+   background-color:  #102722;
+   padding-bottom: 10%;
+}
+
+/* Control the right side */
+.right {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color:  #102722;
+    
+}
+
+.box_for_render_boots{
+    position: absolute;
+    width:100%;
+    height:100%;
+  
+}
+
+.name{
+    position:absolute !important;
+    left: 5% !important;
+    top: 11%; 
+    font-size: 70px !important;
+    color: aliceblue;
+}
+
+
+.gen_value{
+    position: absolute !important;
+    top: 3% !important;
+    left: 5%  !important;
+    font-size: 30px !important;
+    color: #47bec7;
+}
+
+
+.description{
+    position: absolute !important;
+    left: 5%  !important;
+    top: 27% !important;
+    font-size: 30px !important;
+    color:rgb(87, 123, 123);
+}
+
+.description_value{
+    position: absolute !important;
+    left: 7%  !important;
+    top: 35% !important;
+    font-size: 20px !important;
+    color:rgb(72, 119, 119);
+}
+
+
+.add_to_list{
+    position: absolute !important;
+    width: 200px !important;
+    margin-top: 50% !important;
+    margin-left:2%  !important;
+    background-color: black !important;
+    color: white !important;
+}
+
+.like_device{
+    position: relative !important;
+    width: 200px !important;
+    margin-top: 50% !important;
+    margin-left:2%  !important;
+    background-color: black !important;
+    color: white !important;
+}
+
+.back_btn{
+    position: relative !important;
+    width: 200px !important;
+    margin-top: 3% !important;
+    margin-left:70%  !important;
+    background-color: black !important;
+    color: white !important;
+}
+
+.review_device{
+    width:90%;
+}
+
+.reviews{
+    overflow: scroll;
+    width:90%;
+    height: 100px;
+}
+
+.image_box{
+    position:relative;
+    height:100%;
+    width:fit-content;
+   // padding-bottom: 10%;
+}
